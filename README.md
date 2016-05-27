@@ -11,9 +11,7 @@ Example:  "Watch me nae nae" should convert to ['watch', 'me', 'nae', 'nae']
 
 2. Swap in place :
 Write a function that takes an array and 2 indices and swaps the two elements at their
-respective place values.
-
-Example:   swapInPlace(["quick", "brown", "fox", "jumps"], 1,3)  should return
+respective place values.  Example:   swapInPlace(["quick", "brown", "fox", "jumps"], 1,3)  should return
 ["quick", "jumps", "fox", "brown"]
 
 3. Array to String: It converts and array to a string while inserting special characters
