@@ -1,0 +1,23 @@
+{
+  "name": "simple-js-operations",
+  "version": "1.0.0",
+  "description": "For each of the problems below:",
+  "main": "exercise1.js",
+  "scripts": {
+    "test": "mocha test/jsFunctionsSpec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nmuta/simple-js-operations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nmuta/simple-js-operations/issues"
+  },
+  "homepage": "https://github.com/Nmuta/simple-js-operations#readme",
+  "devDependencies": {
+    "chai": "^3.4.1"
+  }
+}
