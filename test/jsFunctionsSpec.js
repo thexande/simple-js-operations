@@ -16,7 +16,7 @@ describe("#swapInPlace", function(arr,a,b){
 
 describe("#arrayToString", function(){
   xit("converts an Array to a string", function(){
-    expect(methods.arrayToString(["wash", "rinse", "repeat"]).to.equal("wash, rinse, repeat");
+    expect(methods.arrayToString(["wash", "rinse", "repeat"]).to.equal("wash, rinse, repeat"));
   });
 });
 
